@@ -11,9 +11,11 @@
 The application should include User Management, Course Management and Enrollment Management. </br>
 Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blob/2c1afc2b6a0ae111e1788fbb0272e71275275809/CS%20355_%20Course%20Enrollment%20Application.pdf)
 
-### Final version
+### Final version of project
 - Homepage: [LINK](https://sheisol310.github.io/web_qcfirst/)
 - Note: server is supported by repl.it [LINK](https://replit.com/@sheisol/355-finalProject#addCourse_store)
+- Preview 
+- <img src="https://github.com/sheisol310/web_qcfirst/blob/main/homepage_cover.jpg?raw=true", width="60%">
 
 #### Process of Development 
 #### Deliverable 1
