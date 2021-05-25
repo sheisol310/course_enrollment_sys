@@ -1,5 +1,5 @@
 const mongoose =require('mongoose');
-
+//model schema for courses
 const courseSchema = new mongoose.Schema({
     semester:{
         type:String,
