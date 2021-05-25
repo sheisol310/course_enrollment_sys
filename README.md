@@ -21,10 +21,8 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 
 ## Development 
 #### Deliverable 0
-### Site-Map
-[LINK](https://github.com/sheisol310/qcfirst#site-map)
-### Wire-Framing
-[LINK](https://github.com/sheisol310/qcfirst#wire-framing)
+- [Site-Map] [LINK](https://github.com/sheisol310/qcfirst#site-map)
+- [Wire-Framing][LINK](https://github.com/sheisol310/qcfirst#wire-framing)
 
 #### Deliverable 1
 - [Site-Map](#Site-Map)
