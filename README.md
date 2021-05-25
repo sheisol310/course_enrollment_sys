@@ -55,7 +55,7 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 [LINK](https://github.com/sheisol310/qcfirst#site-map)
 
 ### Wire-Framing
-[LINK]([LINK](https://github.com/sheisol310/qcfirst#site-map))
+[LINK](https://github.com/sheisol310/qcfirst#wire-framing)
 #### Homepage
 #### Sign-up Page
 #### Log-in Page
