@@ -22,21 +22,9 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 ## Development 
 #### Deliverable 0
 - [Site-Map] [LINK](https://github.com/sheisol310/qcfirst#site-map)
-- [Wire-Framing][LINK](https://github.com/sheisol310/qcfirst#wire-framing)
 
 #### Deliverable 1
-- [Site-Map](#Site-Map)
-- [Wire-Framing](#Wire-Framing)
-	- [Homepage](#Homepage)
-	- [Sign-up Page](#Sign-up-Page)
-	- [Log-in Page](#Log-in-Page)
-	- [Instructor Page](#Instructor-Page)
-	- [Student Page](#Student-Page)
-	- [Page of Enrollment Management](#Page-of-Enrollment-Management)
-	- [Page of Course Search](#Page-of-Course-Search)
-	- [Page of Shopping Cart](#Page-of-Shopping-Cart)
-	- [Page of Course Management](#Page-of-Course-Management)
-	- [Page of Course Set-Up](#Page-of-Course-Set-Up)
+- [Wire-Framing][LINK](https://github.com/sheisol310/qcfirst#wire-framing)
 
 #### Deliverable 2 & Deliverable 3
 ##### Click Links To Visit Outside Websites
