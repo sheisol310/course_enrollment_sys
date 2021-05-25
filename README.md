@@ -16,7 +16,7 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 - Note: server is supported by repl.it [LINK](https://replit.com/@sheisol/355-finalProject#addCourse_store)
 - Preview 
 <p align="left">
-<img src="https://github.com/sheisol310/web_qcfirst/blob/main/homepage_cover.jpg?raw=true", width="80%">
+<img src="https://github.com/sheisol310/web_qcfirst/blob/main/homepage_cover.jpg?raw=true", width="90%">
 </p>
 
 #### Process of Development 
