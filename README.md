@@ -15,8 +15,8 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 - Homepage: [LINK](https://sheisol310.github.io/web_qcfirst/)
 - Note: server is supported by repl.it [LINK](https://replit.com/@sheisol/355-finalProject#addCourse_store)
 - Preview 
-<p align="center">
-<img src="https://github.com/sheisol310/web_qcfirst/blob/main/homepage_cover.jpg?raw=true", width="50%">
+<p align="left">
+<img src="https://github.com/sheisol310/web_qcfirst/blob/main/homepage_cover.jpg?raw=true", width="80%">
 </p>
 
 #### Process of Development 
