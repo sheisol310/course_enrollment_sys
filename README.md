@@ -19,7 +19,7 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 <img src="https://github.com/sheisol310/web_qcfirst/blob/main/homepage_cover.jpg?raw=true", width="90%">
 </p>
 
-## Process of Development 
+## Development 
 #### Deliverable 0
 ### Site-Map
 [LINK](https://github.com/sheisol310/qcfirst#site-map)
