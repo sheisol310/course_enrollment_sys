@@ -2,7 +2,7 @@ html,
 body {
   height: 100%;
 }
-
+/*General layout */
 body {
   display: flex;
   align-items: center;
@@ -11,7 +11,7 @@ body {
   background-color:#f5f5f5;
   
 }
-
+/*sign in (form data)*/
 .form-signin {
   width: 100%;
   max-width: 330px;
@@ -46,7 +46,7 @@ body {
   -moz-user-select: none;
   user-select: none;
 } 
-
+/*Resizing data*/
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
