@@ -1,7 +1,8 @@
+/*container info */
 .container {
     max-width: 960px;
   }
-  
+  /* background image*/
   .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -9,7 +10,7 @@
     -moz-user-select: none;
     user-select: none;
   }
-
+/* responsive code*/
   @media (min-width: 768px) {
     .bd-placeholder-img-lg {
       font-size: 3.5rem;
