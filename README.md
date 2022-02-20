@@ -4,7 +4,7 @@
 
 ## This application is desgined for facutlies and students
 
-### Designers: Robert Andrews & Ching Kung Lin 
+### Designers: Ching Kung Lin 
 
 ## Design Requirements
 
