@@ -4,8 +4,6 @@
 
 ## This application is desgined for facutlies and students
 
-### Designers: Ching Kung Lin 
-
 ## Design Requirements
 
 The application should include User Management, Course Management and Enrollment Management. </br>
