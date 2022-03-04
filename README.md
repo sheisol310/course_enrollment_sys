@@ -11,7 +11,7 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 
 ## Final version of project
 - Homepage: [LINK](https://sheisol310.github.io/index.html) --> Click here to browse website. 
-- Note: Please be adviised that the server is supported by repl.it [Sheisol310](https://replit.com/@sheisol/355-finalProject#addCourse_store) with UptimeRobot that will wake replit file every 'FIVE' mintues. If you see the message "Replit is waking....", meaning the server is down. Please give UptimeRobot a few mintues to wake up the site, it noromally gets done within five mintues.  
+- Note: Please be adviised that the server is supported by repl.it [Sheisol310](https://replit.com/@sheisol/355-finalProject#addCourse_store) with UptimeRobot that will wake replit file every 'FIVE' mintues. If you see the message "Replit is waking....", meaning the server is down. Please give UptimeRobot a few mintues to wake up the site. It noromally gets done within five mintues.  
 - Preview 
 <p align="left">
 <img src="https://github.com/sheisol310/web_qcfirst/blob/main/homepage_cover.jpg?raw=true", width="90%">
